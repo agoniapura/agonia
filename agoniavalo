@@ -8,3 +8,7 @@ HitX=0
 HitY=0
 Bind1=2
 Bind2=1
+Enable_controler=1
+InitialDelayControler=0
+Controler_Max=50
+Controler_Speed=2
